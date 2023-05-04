@@ -1,0 +1,11 @@
+Q1    How many matches has been played in t20 world cup 2007 ?
+
+Q2.  Where was the venue where matches has been played  ?
+
+Q3 . Who has  won player of match award in the final ?
+
+ Q4.  Which team matches  has no result ?
+
+ Q5 . On which location  final match has been  played?
+
+ Q6. Which player has won player of match more than one time  and how  many times they won ? 
