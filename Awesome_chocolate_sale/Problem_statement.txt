@@ -1,0 +1,12 @@
+  Q1.      Which category product has a highest sale ?
+
+   Q2.    On which location has the most customer  ?
+
+  Q3.     Find the total sales by region in descending order ?
+
+  Q4.   How many chocolates boxes has been sold in the month of february ?
+
+ Q5.   On which month has a highest sales ?
+   
+
+
